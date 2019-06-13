@@ -34,7 +34,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Learning Sentiment Memories for Sentiment Modification without Parallel Data, EMNLP-2018, [[paper]](https://arxiv.org/abs/1808.07311), [[code]](https://github.com/lancopku/SMAE)
 - Style Transfer Through Multilingual and Feedback-Based Back-Translation, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1809.06284)
 - Structured Content Preservation for Unsupervised Text Style Transfer, OpenReview, 2018, [[paper]](https://openreview.net/forum?id=S1lCbhAqKX)
-- Unsupervised Controllable Text Formalization, AAAI, 2019, [[paper]](https://arxiv.org/abs/1809.04556)
+- Unsupervised Controllable Text Formalization, AAAI, 2019, [[paper]](https://arxiv.org/abs/1809.04556), [[code]](https://github.com/parajain/uctf)
 - Large-scale Hierarchical Alignment for Author Style Transfer, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1810.08237)
 - Learning Criteria and Evaluation Metrics for Textual Transfer between Non-Parallel Corpora, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1810.11878)
 - Content preserving text generation with attribute controls, NIPS, 2018, [[paper]](https://arxiv.org/abs/1811.01135)
@@ -48,6 +48,9 @@ This is a paper list for style transfer in text. It also contains some related r
 - Multiple-Attribute Text Style Transfer (Rewriting), ICLR, 2019, [[paper]](https://openreview.net/forum?id=H1g2NhC5KQ)
 - Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation, ACL, 2019, [[paper]](https://arxiv.org/abs/1905.05621)
 - A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer, IJCAI, 2019, [[paper]](https://arxiv.org/abs/1905.10060), [[code]](https://github.com/luofuli/DualLanST)
+- Unsupervised Controllable Text Generation with Global Variation Discovery and Disentanglement, Arxiv, 2019, [[paper]](https://arxiv.org/abs/1905.11975)
+- Revision in Continuous Space: Fine-Grained Control of Text Style Transfer, Arxiv, 2019, [[paper]](https://arxiv.org/abs/1905.12304)
+- Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation, Arxiv, 2019, [[paper]](https://arxiv.org/abs/1905.12926)
 
 ## Evaluation
 - Evaluating Style Transfer for Text, NAACL, 2019, [[paper1]](https://arxiv.org/abs/1904.02295), [[paper2]](https://dspace.mit.edu/bitstream/handle/1721.1/119569/1076275047-MIT.pdf?sequence=1)
